@@ -1,0 +1,4 @@
+﻿  Direct3D.cpp
+C:\Users\fuzuk\Documents\GitHub\DirectxSample\GameProgramming\Application\Source\DirectX\Direct3D.cpp(21,19): warning C4552: '!=': 式の結果が使用されていません
+C:\Users\fuzuk\Documents\GitHub\DirectxSample\GameProgramming\Application\Source\DirectX\Direct3D.cpp(140,8): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+  Application.vcxproj -> C:\Users\fuzuk\Documents\GitHub\DirectxSample\GameProgramming\x64\Debug\Application.exe
